@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1519799436 source:c:\users\exs32\desktop\projects\f\main.cpp
+	<iostream>
+
+1519804219 source:c:\users\exs32\desktop\projects\f\src\goodstaff.cpp
+	<iostream>
+	<cstring>
+	"main.h"
+
+1519804708 c:\users\exs32\desktop\projects\f\src\main.h
+	<iostream>
+	<cstring>
+	"goodstaff.h"
+	"menu.h"
+	<stdlib.h>
+
+1519803740 c:\users\exs32\desktop\projects\f\src\goodstaff.h
+
+1519805609 c:\users\exs32\desktop\projects\f\src\menu.h
+	"main.h"
+
+1519804432 source:c:\users\exs32\desktop\projects\f\src\main.cpp
+	"main.h"
+
