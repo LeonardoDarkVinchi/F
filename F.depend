@@ -2,23 +2,28 @@
 1519799436 source:c:\users\exs32\desktop\projects\f\main.cpp
 	<iostream>
 
-1519804219 source:c:\users\exs32\desktop\projects\f\src\goodstaff.cpp
+1519819607 source:c:\users\exs32\desktop\projects\f\src\goodstaff.cpp
 	<iostream>
 	<cstring>
 	"main.h"
 
-1519804708 c:\users\exs32\desktop\projects\f\src\main.h
+1519819630 c:\users\exs32\desktop\projects\f\src\main.h
 	<iostream>
 	<cstring>
 	"goodstaff.h"
 	"menu.h"
 	<stdlib.h>
+	<conio.h>
+	<stdio.h>
 
-1519803740 c:\users\exs32\desktop\projects\f\src\goodstaff.h
+1519819406 c:\users\exs32\desktop\projects\f\src\goodstaff.h
 
-1519805609 c:\users\exs32\desktop\projects\f\src\menu.h
+1519975626 c:\users\exs32\desktop\projects\f\src\menu.h
 	"main.h"
 
-1519804432 source:c:\users\exs32\desktop\projects\f\src\main.cpp
+1519820472 source:c:\users\exs32\desktop\projects\f\src\main.cpp
+	"main.h"
+
+1519975329 source:c:\users\exs32\desktop\projects\f\src\menu.cpp
 	"main.h"
 

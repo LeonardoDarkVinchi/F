@@ -6,6 +6,8 @@
 #include "goodstaff.h"
 #include "menu.h"
 #include <stdlib.h>
+#include <conio.h>
+#include <stdio.h>
 
 using namespace std;
 

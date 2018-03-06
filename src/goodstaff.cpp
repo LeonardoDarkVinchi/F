@@ -34,3 +34,17 @@ cout << "\nМассив типа float:\n"; printArray(fArray, fSize);
 cout << "\nМассив типа char:\n";printArray(cArray, cSize);
 return 0;
 }
+
+void defAndUndef()
+{
+    #define FURI cout<<
+    #define THE  "I love the furi"
+    #define BEST ;
+
+    FURI THE BEST
+
+    #undef FURI
+    #ifdef FURI
+        FURI THE BEST
+    #endif // FURI
+}

@@ -3,9 +3,12 @@
 #include "main.h"
 using namespace std;
 
+typedef string TMenuText [];
+
 void mainMenu();
 void adventureChooseMenu();
+void drawMenu(TMenuText menuText,int pos);
 
-typedef string TMenuText [];
+
 
 #endif // MENU_H_INCLUDED
